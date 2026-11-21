@@ -10,5 +10,7 @@ import numpy as np
 temperatures = np.array([18.5, 21.0, 29.5, 31.2, 19.8, 27.4, 33.0])
 fahrenheit = temperatures * 1.8 + 32
 hotDay = fahrenheit[fahrenheit > 85]
-print("The hot days are:", hotDay)
+
+print("The temperatures in fahrenheit:" , np.round(fahrenheit, 1))
+print("The hot days are:", np.round(hotDay, 1))
 print("The number of hot days are", hotDay.size)
