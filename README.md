@@ -13,5 +13,6 @@ change directory(cd) numpy
 
 change directory (cd) to numpy
 
-Run: python3temperatureConverter.py
+Run:
+python3 <filename>.py
 ```
