@@ -3,14 +3,14 @@ This repository will have all the python coding that I have practiced.
 
 
 ## Numpy folder: 
-termperatureConverter file (src/numpy/temperatureConverter.py)
-gradebookAnalyzer file (src/numpy/gradebookAnalyzer.py)
+- src/numpy/temperatureConverter.py
+- src/numpy/gradebookAnalyzer.py
 
 
 ## How to Run:
 ```
-git clone
+git clone https://github.com/Dhruv-2011/python-coding-practice.git
 cd src
 cd numpy
-Run:python3 <filename>.py
+python3 <filename>.py
 ```
